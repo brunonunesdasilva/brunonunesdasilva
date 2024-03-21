@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Nunes 👋
 
--Engenharia de Computação/ UTFPR-PB
+-Estudante do 5º periodo de Engenharia de Computação/ UTFPR-PB
 
 ![bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunonunesdasilva&show_icons=true&theme=algolia)
 
