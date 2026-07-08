@@ -1,14 +1,8 @@
 ### Olá! Eu sou o Bruno Nunes 👋
 
--Estudante do 5º periodo de Engenharia de Computação/ UTFPR-PB
+-Estudante de Engenharia de Computação/ UTFPR-PB
 
 <img width='1000' src="https://github-readme-activity-graph.vercel.app/graph?username=brunonunesdasilva&theme=react-dark" />
-
-<div align="center" justify-itens="space-between">
-  <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=brunonunesdasilva&theme=algolia" />
-  <img width=45% src="https://github-readme-stats.vercel.app/api?username=brunonunesdasilva&rank_icon=github&theme=algolia" />
-</div>
-
 
 ## Tecnologias que já usei
 <div style="display: inline_block" align="center"><br/>
